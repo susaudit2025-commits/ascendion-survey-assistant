@@ -1,4 +1,8 @@
 streamlit
 openai
 pandas
+numpy
+tiktoken
 pypdf
+python-docx
+
